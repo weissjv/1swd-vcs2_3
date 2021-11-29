@@ -7,3 +7,7 @@ water
 pindakaas
 pepernoten
 wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
